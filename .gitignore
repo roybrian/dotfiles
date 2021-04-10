@@ -1,0 +1,8 @@
+# ./links
+links/*
+!links/*.zshrc
+
+# ./defaults
+*.ismp # istat menus settings file
+iStat Menus.sh
+_secrets.sh
