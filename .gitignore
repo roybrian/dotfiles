@@ -1,8 +1,24 @@
+/*
+
 # ./links
-links/*
+!/links
+/links/*
+
+!links/*.vimrc
+!links/*.gitconfig
+!links/*.gitignore
+!links/*.hushlogin
 !links/*.zshrc
+
+!/links/.config/
+/links/.config/*
+!/links/.config/*karabiner
+
+!/defaults
+!/install
 
 # ./defaults
 *.ismp # istat menus settings file
 iStat Menus.sh
 _secrets.sh
+

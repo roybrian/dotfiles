@@ -1,0 +1,7 @@
+[credential]
+	helper = osxkeychain
+[user]
+	email = roeybiran@icloud.com
+	name = Roey Biran
+[core]
+	excludesfile = /Users/roey/.gitignore
